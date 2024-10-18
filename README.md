@@ -13,7 +13,7 @@ This is a Quiz web app built with React. The app asks the users a set of questio
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/quiz-app.git
+git clone https://github.com/PRANALINAVGRAHE/quizapp.git
 cd quiz-app
 
 
